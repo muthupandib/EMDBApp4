@@ -6,3 +6,4 @@ const SearchMoviesContext = createContext({
 })
 
 export default SearchMoviesContext
+ 
